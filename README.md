@@ -134,7 +134,10 @@ Backend has no tests configured. Add with `npm test`.
 
 ## 📸 Screenshots
 
-(Add screenshots of home page, job listing, admin dashboard here)
+<img width="1890" height="866" alt="image" src="https://github.com/user-attachments/assets/0c454110-bfd0-42db-99e5-ede2a9e9a15e" />
+
+<img width="1862" height="802" alt="image" src="https://github.com/user-attachments/assets/fc512c3e-5b81-410d-bf79-a7e0f095b091" />
+
 
 ## 📄 License
 
